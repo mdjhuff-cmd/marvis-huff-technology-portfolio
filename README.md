@@ -1,6 +1,6 @@
 # Marvis Huff — Technology Portfolio
 
-**Marvis Huff**, also known as **Marvis De One Huff**, is a technology delivery and transformation leader focused on practical artificial intelligence, agentic systems, enterprise platforms, cloud delivery, data-informed decision support and human-centered digital experiences.
+Marvis Huff is a technology delivery and transformation leader focused on practical artificial intelligence, agentic systems, enterprise platforms, cloud delivery, data-informed decision support and human-centered digital experiences.
 
 This public portfolio documents technology concepts, interface patterns and delivery frameworks. It intentionally excludes confidential employer, client and personal information.
 
@@ -47,3 +47,5 @@ Marvis Huff holds an MBA in Project Management and professional certifications s
 - [Marvis Huff on Crunchbase](https://www.crunchbase.com/person/marvis-huff)
 
 New case studies and interface demonstrations will be added as they are ready for public review.
+
+Author note: Selected publications and professional references may use the full name Marvis De One Huff.
