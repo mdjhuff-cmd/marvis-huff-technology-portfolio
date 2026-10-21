@@ -43,7 +43,9 @@ Marvis Huff holds an MBA in Project Management and professional certifications s
 ## Publications and profiles
 
 - [Marvis Huff — AI and Technology](https://marvishuff.com/)
+- [Marvis Huff Works — Interactive Technology and UI Portfolio](https://marvishuffworks.com/)
 - [Marvis Huff Cosmos — Astronomy and Physics](https://marvishuffcosmos.com/)
+- [Marvis Huff on Behance](https://www.behance.net/marvishuffli)
 - [Marvis Huff on Crunchbase](https://www.crunchbase.com/person/marvis-huff)
 
 New case studies and interface demonstrations will be added as they are ready for public review.
