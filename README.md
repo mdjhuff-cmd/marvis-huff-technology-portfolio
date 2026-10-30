@@ -40,6 +40,11 @@ Concepts for retrieval, summarization and guided analysis that help people navig
 
 Marvis Huff holds an MBA in Project Management and professional certifications spanning Scrum, scaled agile delivery and AWS cloud fundamentals. His continuing academic work examines artificial intelligence in an enterprise and organizational context.
 
+
+## Latest writing
+
+- [Responsible AI Decision Support: Designing for Human Judgment](articles/responsible-ai-decision-support.md) — October 30, 2026. An original essay by Marvis Huff on evidence, oversight, and accountable AI-assisted decisions.
+
 ## Publications and profiles
 
 - [Marvis Huff — AI and Technology](https://marvishuff.com/)
