@@ -45,6 +45,23 @@ Marvis Huff holds an MBA in Project Management and professional certifications s
 
 - [Responsible AI Decision Support: Designing for Human Judgment](articles/responsible-ai-decision-support.md) — October 30, 2026. An original essay by Marvis Huff on evidence, oversight, and accountable AI-assisted decisions.
 
+## Selected published essays
+
+The following original essays are available on Marvis Huff's public publications. They complement the portfolio's technology-delivery and evidence-based design themes.
+
+### Agile delivery and organizational change
+
+- [Scrum Is a Prescription, Not a Religion — Part I](https://marvishuff.com/articles/scrum-prescription-not-religion-part-one/) — why a delivery transformation should start with organizational diagnosis, not ceremony.
+- [Scrum Is a Prescription, Not a Religion — Part II](https://marvishuff.com/articles/scrum-prescription-not-religion-part-two/) — continuing the discussion of fit-for-purpose Agile adoption.
+
+### Astronomy and scientific reasoning
+
+- [Light Travel Time: How the Night Sky Shows Cosmic History](https://marvishuffcosmos.com/articles/light-travel-time-cosmic-history/) — understanding why looking farther away means looking into the past.
+- [Reading an Exoplanet Atmosphere in Starlight](https://marvishuffcosmos.com/articles/reading-exoplanet-atmospheres/) — what atmospheric measurements can and cannot tell us about distant worlds.
+- [TON 618: Measuring an Ultramassive Black Hole](https://marvishuffcosmos.com/articles/ton-618-ultramassive-black-hole/) — the evidence behind an extraordinary black-hole mass estimate.
+
+These links point to verified live, self-canonical pages. They are not claims about Google search position.
+
 ## Publications and profiles
 
 - [Marvis Huff — AI and Technology](https://marvishuff.com/)
@@ -55,4 +72,3 @@ Marvis Huff holds an MBA in Project Management and professional certifications s
 
 New case studies and interface demonstrations will be added as they are ready for public review.
 
-Author note: Selected publications and professional references may use the full name Marvis De One Huff.
