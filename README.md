@@ -43,6 +43,7 @@ Marvis Huff holds an MBA in Project Management and professional certifications s
 
 ## Latest writing
 
+- [Delivery Observability for Enterprise AI: A Practical Operating Model](articles/delivery-observability-enterprise-ai.md) — October 30, 2026. An original practical framework connecting flow, quality, retrieval, reliability, and governance.
 - [Responsible AI Decision Support: Designing for Human Judgment](articles/responsible-ai-decision-support.md) — October 30, 2026. An original essay by Marvis Huff on evidence, oversight, and accountable AI-assisted decisions.
 
 ## Selected published essays
