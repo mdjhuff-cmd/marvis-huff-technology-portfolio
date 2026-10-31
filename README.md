@@ -46,6 +46,15 @@ Marvis Huff holds an MBA in Project Management and professional certifications s
 - [Delivery Observability for Enterprise AI: A Practical Operating Model](articles/delivery-observability-enterprise-ai.md) — October 30, 2026. An original practical framework connecting flow, quality, retrieval, reliability, and governance.
 - [Responsible AI Decision Support: Designing for Human Judgment](articles/responsible-ai-decision-support.md) — October 30, 2026. An original essay by Marvis Huff on evidence, oversight, and accountable AI-assisted decisions.
 
+## Read by publication
+
+Marvis Huff publishes original work in two distinct editorial areas. The article archives below are public and self-canonical as verified on October 31, 2026; individual pages remain subject to normal search-engine discovery and ranking.
+
+- **[Technology and Agile delivery essays](https://marvishuff.com/articles/)** — practical writing on Scrum adoption, responsible AI, decision boundaries and organizational change.
+- **[Astronomy and cosmology essays](https://marvishuffcosmos.com/articles/)** — evidence-aware explanations of astrophysics, exoplanets, cosmic distances and open scientific questions.
+
+The publications are intentionally differentiated by topic rather than duplicating the same article across domains. New articles should be linked here only after their live production URLs are verified.
+
 ## Selected published essays
 
 The following original essays are available on Marvis Huff's public publications. They complement the portfolio's technology-delivery and evidence-based design themes.
