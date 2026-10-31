@@ -14,6 +14,12 @@ This public portfolio documents technology concepts, interface patterns and deli
 - Financial-services and investment-technology concepts
 - International technology leadership across Europe, the Middle East, and North and Central America
 
+## Technology delivery in the UAE and Middle East
+
+Marvis Huff's international technology-delivery interests include enterprise AI adoption, Agile governance, and responsible decision-support systems in the **United Arab Emirates (UAE)** and the wider Middle East. His professional work has included delivery leadership in the region. This portfolio shares general, independently authored frameworks rather than confidential client information.
+
+For technology leaders in **Dubai** and **Abu Dhabi**, the relevant public writing covers [delivery observability for enterprise AI](articles/delivery-observability-enterprise-ai.md), [responsible AI decision support](articles/responsible-ai-decision-support.md), and [Scrum as a fit-for-purpose organizational approach](https://marvishuff.com/articles/scrum-prescription-not-religion-part-one/). These are topic-based resources, not claims of local endorsements, contracts, or current employment.
+
 ## Portfolio roadmap
 
 ### AI decision-support interfaces
