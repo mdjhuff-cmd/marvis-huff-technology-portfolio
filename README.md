@@ -72,6 +72,20 @@ The following original essays are available on Marvis Huff's public publications
 
 These links point to verified live, self-canonical pages. They are not claims about Google search position.
 
+## Find Marvis Huff by topic
+
+For readers searching for **Marvis Huff** and his work, these original resources provide direct starting points:
+
+| Topic | Original resource | What it covers |
+| --- | --- | --- |
+| Responsible enterprise AI | [Responsible AI Decision Support](articles/responsible-ai-decision-support.md) | Human review, traceable evidence, decision boundaries and accountability |
+| AI delivery leadership | [Delivery Observability for Enterprise AI](articles/delivery-observability-enterprise-ai.md) | Flow, quality, risk and outcome measures for AI programs |
+| Scrum and change management | [Scrum Is a Prescription, Not a Religion — Part I](https://marvishuff.com/articles/scrum-prescription-not-religion-part-one/) | Applying Agile methods to organizational needs |
+| Astronomy and cosmology | [TON 618: Measuring an Ultramassive Black Hole](https://marvishuffcosmos.com/articles/ton-618-ultramassive-black-hole/) | Astronomical evidence and scientific uncertainty |
+| Exoplanet science | [Reading an Exoplanet Atmosphere in Starlight](https://marvishuffcosmos.com/articles/reading-exoplanet-atmospheres/) | What observations reveal about distant atmospheres |
+
+The portfolio is a public index of Marvis Huff's independently authored writing and technology concepts, not an employer or client endorsement. Readers interested in the author can follow the relevant publication's About page and its original articles.
+
 ## Publications and profiles
 
 - [Marvis Huff — AI and Technology](https://marvishuff.com/)
