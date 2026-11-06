@@ -58,6 +58,8 @@ Before moving an AI feature from staging into production, I would ask the team t
 
 A readiness review should not become a ceremonial gate with a hundred fields. The evidence should be concise enough to use, but strong enough to explain the release decision afterward.
 
+Use the [AI Release Evidence Checklist](../templates/ai-release-evidence-checklist.md) to turn this review into a decision record. It includes a worked example and a place to record failed cases, owners, and retest evidence.
+
 ## Make the view actionable across teams
 
 In a program with several squads, local dashboards are useful but insufficient. Integration dependencies cross team boundaries. A practical program view should show shared risks, aging decisions, environment readiness, and cross-team commitments. The Scrum of Scrums can use that view to resolve coordination issues rather than recite individual status updates.
