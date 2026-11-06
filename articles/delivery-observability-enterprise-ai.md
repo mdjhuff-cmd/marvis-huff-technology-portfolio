@@ -66,6 +66,8 @@ In a program with several squads, local dashboards are useful but insufficient. 
 
 A small set of clearly defined measures beats a wall of charts. Give each signal an owner, a source of truth, a refresh cadence, and an explicit response when it changes. Show trends over time rather than using a single traffic-light label as a substitute for analysis.
 
+For a practical way to track dependencies across squads, see [Managing Dependencies Across Agile Teams](https://marvishuff.com/articles/managing-dependencies-across-agile-teams/), which shows how to record owners, dates, and escalation triggers.
+
 ## An example: an AI document assistant
 
 Imagine a team releasing an assistant that answers questions over approved internal documents. The sprint may end with all planned stories marked complete. Yet a responsible release decision would also consider whether newly uploaded documents appear within the agreed freshness window, whether users can retrieve only authorized material, whether citations resolve to the correct passages, and whether the assistant handles questions it cannot answer.
