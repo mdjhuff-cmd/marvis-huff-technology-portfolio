@@ -4,6 +4,18 @@ Marvis Huff is a technology delivery and transformation leader focused on practi
 
 This public portfolio documents technology concepts, interface patterns and delivery frameworks. It intentionally excludes confidential employer, client and personal information.
 
+## Explore the work
+
+- [About Marvis Huff](https://marvishuff.com/about/) and [technology and Agile essays](https://marvishuff.com/articles/)
+- [Interactive design portfolio](https://marvishuffworks.com/work/) and [Marvis Huff on Behance](https://www.behance.net/marvishuffli)
+- [Marvis Huff on Crunchbase](https://www.crunchbase.com/person/marvis-huff) for professional background
+
+### Selected design projects on Behance
+
+- [CareerPilot — Human-Reviewed Job Search Command Center](https://www.behance.net/gallery/256904341/CareerPilot-Human-Reviewed-Job-Search-Command-Center)
+- [StudyMate GPT — An Adaptive AI Learning Workspace](https://www.behance.net/gallery/256901671/StudyMate-GPT-An-Adaptive-AI-Learning-Workspace)
+- [Signal Atlas — Interfaces for Intelligent Systems](https://www.behance.net/gallery/256901369/Signal-Atlas-Interfaces-for-Intelligent-Systems)
+
 ## Focus areas
 
 - Responsible AI and agentic AI with clear human oversight
@@ -103,8 +115,6 @@ The portfolio is a public index of Marvis Huff's independently authored writing 
 - [Marvis Huff — AI and Technology](https://marvishuff.com/)
 - [Marvis Huff Works — Interactive Technology and UI Portfolio](https://marvishuffworks.com/)
 - [Marvis Huff Cosmos — Astronomy and Physics](https://marvishuffcosmos.com/)
-- [Marvis Huff on Behance](https://www.behance.net/marvishuffli)
-- [Marvis Huff on Crunchbase](https://www.crunchbase.com/person/marvis-huff)
 
 New case studies and interface demonstrations will be added as they are ready for public review.
 
