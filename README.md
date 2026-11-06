@@ -69,11 +69,15 @@ The following original essays are available on Marvis Huff's public publications
 
 ### Agile delivery and organizational change
 
+- [Why Agile Transformations Fail](https://marvishuff.com/articles/why-agile-transformations-fail/) — diagnose common delivery problems and test a practical change over four weeks.
+- [Managing Dependencies Across Agile Teams](https://marvishuff.com/articles/managing-dependencies-across-agile-teams/) — map prerequisites, assign owners, and define when a blocker needs escalation.
 - [Scrum Is a Prescription, Not a Religion — Part I](https://marvishuff.com/articles/scrum-prescription-not-religion-part-one/) — why a delivery transformation should start with organizational diagnosis, not ceremony.
 - [Scrum Is a Prescription, Not a Religion — Part II](https://marvishuff.com/articles/scrum-prescription-not-religion-part-two/) — continuing the discussion of fit-for-purpose Agile adoption.
 
 ### Astronomy and scientific reasoning
 
+- [Gravitational Lensing](https://marvishuffcosmos.com/articles/gravitational-lensing-how-galaxies-bend-light/) — how astronomers infer the distribution of mass from bent light.
+- [The Cosmic Distance Ladder](https://marvishuffcosmos.com/articles/cosmic-distance-ladder-parallax-standard-candles/) — how overlapping methods extend distance measurements from nearby stars to distant galaxies.
 - [Light Travel Time: How the Night Sky Shows Cosmic History](https://marvishuffcosmos.com/articles/light-travel-time-cosmic-history/) — understanding why looking farther away means looking into the past.
 - [Reading an Exoplanet Atmosphere in Starlight](https://marvishuffcosmos.com/articles/reading-exoplanet-atmospheres/) — what atmospheric measurements can and cannot tell us about distant worlds.
 - [TON 618: Measuring an Ultramassive Black Hole](https://marvishuffcosmos.com/articles/ton-618-ultramassive-black-hole/) — the evidence behind an extraordinary black-hole mass estimate.
