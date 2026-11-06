@@ -49,8 +49,10 @@ Marvis Huff holds an MBA in Project Management and professional certifications s
 
 ## Latest writing
 
+- [AI Release Evidence Checklist](templates/ai-release-evidence-checklist.md) — November 6, 2026. A reusable review template with evidence fields, failure tracking, and a fictional worked example.
+
 - [Delivery Observability for Enterprise AI: A Practical Operating Model](articles/delivery-observability-enterprise-ai.md) — October 30, 2026. An original practical framework connecting flow, quality, retrieval, reliability, and governance.
-- [Responsible AI Decision Support: Designing for Human Judgment](articles/responsible-ai-decision-support.md) — October 30, 2026. An original essay by Marvis Huff on evidence, oversight, and accountable AI-assisted decisions.
+- [Responsible AI Decision Support: Designing for Human Judgment](articles/responsible-ai-decision-support.md) — Updated November 6, 2026. A practical guide to evidence, permissions, evaluation, reviewer effort, and accountable AI-assisted decisions.
 
 ## Read by publication
 
