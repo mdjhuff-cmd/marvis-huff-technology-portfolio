@@ -60,6 +60,8 @@ A readiness review should not become a ceremonial gate with a hundred fields. Th
 
 Use the [AI Release Evidence Checklist](../templates/ai-release-evidence-checklist.md) to turn this review into a decision record. It includes a worked example and a place to record failed cases, owners, and retest evidence.
 
+For a companion guide to setting team agreements around readiness and quality, see [Definition of Ready and Definition of Done](https://marvishuff.com/articles/definition-of-ready-vs-definition-of-done-scrum/).
+
 ## Make the view actionable across teams
 
 In a program with several squads, local dashboards are useful but insufficient. Integration dependencies cross team boundaries. A practical program view should show shared risks, aging decisions, environment readiness, and cross-team commitments. The Scrum of Scrums can use that view to resolve coordination issues rather than recite individual status updates.
